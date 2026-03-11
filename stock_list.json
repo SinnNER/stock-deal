@@ -1,0 +1,260 @@
+{
+  "WMT": {
+    "name": "沃尔玛",
+    "symbol": "WMT",
+    "exchange": "NYSE",
+    "category": "world_500"
+  },
+  "2222.SR": {
+    "name": "沙特阿美",
+    "symbol": "2222.SR",
+    "exchange": "TADAWUL",
+    "category": "world_500"
+  },
+  "601728.SS": {
+    "name": "国家电网",
+    "symbol": "601728.SS",
+    "exchange": "SSE",
+    "category": "world_500"
+  },
+  "AMZN": {
+    "name": "亚马逊",
+    "symbol": "AMZN",
+    "exchange": "NASDAQ",
+    "category": "world_500"
+  },
+  "600028.SS": {
+    "name": "中国石化",
+    "symbol": "600028.SS",
+    "exchange": "SSE",
+    "category": "world_500"
+  },
+  "AAPL": {
+    "name": "苹果",
+    "symbol": "AAPL",
+    "exchange": "NASDAQ",
+    "category": "world_500"
+  },
+  "CVS": {
+    "name": "CVS健康",
+    "symbol": "CVS",
+    "exchange": "NYSE",
+    "category": "world_500"
+  },
+  "UNH": {
+    "name": "联合健康",
+    "symbol": "UNH",
+    "exchange": "NYSE",
+    "category": "world_500"
+  },
+  "XOM": {
+    "name": "埃克森美孚",
+    "symbol": "XOM",
+    "exchange": "NYSE",
+    "category": "world_500"
+  },
+  "BRK.B": {
+    "name": "伯克希尔哈撒韦",
+    "symbol": "BRK.B",
+    "exchange": "NYSE",
+    "category": "world_500"
+  },
+  "MDT": {
+    "name": "美敦力",
+    "symbol": "MDT",
+    "exchange": "NYSE",
+    "category": "world_500"
+  },
+  "CMCSA": {
+    "name": "康卡斯特",
+    "symbol": "CMCSA",
+    "exchange": "NASDAQ",
+    "category": "world_500"
+  },
+  "INTC": {
+    "name": "英特尔",
+    "symbol": "INTC",
+    "exchange": "NASDAQ",
+    "category": "world_500"
+  },
+  "SHEL": {
+    "name": "壳牌",
+    "symbol": "SHEL",
+    "exchange": "NYSE",
+    "category": "world_500"
+  },
+  "601318.SS": {
+    "name": "中国平安",
+    "symbol": "601318.SS",
+    "exchange": "SSE",
+    "category": "china_500"
+  },
+  "600036.SS": {
+    "name": "招商银行",
+    "symbol": "600036.SS",
+    "exchange": "SSE",
+    "category": "china_500"
+  },
+  "601398.SS": {
+    "name": "工商银行",
+    "symbol": "601398.SS",
+    "exchange": "SSE",
+    "category": "china_500"
+  },
+  "601939.SS": {
+    "name": "建设银行",
+    "symbol": "601939.SS",
+    "exchange": "SSE",
+    "category": "china_500"
+  },
+  "601288.SS": {
+    "name": "农业银行",
+    "symbol": "601288.SS",
+    "exchange": "SSE",
+    "category": "china_500"
+  },
+  "601857.SS": {
+    "name": "中国石油",
+    "symbol": "601857.SS",
+    "exchange": "SSE",
+    "category": "china_500"
+  },
+  "600519.SS": {
+    "name": "贵州茅台",
+    "symbol": "600519.SS",
+    "exchange": "SSE",
+    "category": "china_500"
+  },
+  "601988.SS": {
+    "name": "中国银行",
+    "symbol": "601988.SS",
+    "exchange": "SSE",
+    "category": "china_500"
+  },
+  "601888.SS": {
+    "name": "中国中免",
+    "symbol": "601888.SS",
+    "exchange": "SSE",
+    "category": "china_500"
+  },
+  "600941.SS": {
+    "name": "中国移动",
+    "symbol": "600941.SS",
+    "exchange": "SSE",
+    "category": "china_500"
+  },
+  "601668.SS": {
+    "name": "中国建筑",
+    "symbol": "601668.SS",
+    "exchange": "SSE",
+    "category": "china_500"
+  },
+  "601088.SS": {
+    "name": "中国神华",
+    "symbol": "601088.SS",
+    "exchange": "SSE",
+    "category": "china_500"
+  },
+  "601390.SS": {
+    "name": "中国中铁",
+    "symbol": "601390.SS",
+    "exchange": "SSE",
+    "category": "china_500"
+  },
+  "601186.SS": {
+    "name": "中国铁建",
+    "symbol": "601186.SS",
+    "exchange": "SSE",
+    "category": "china_500"
+  },
+  "601669.SS": {
+    "name": "中国电建",
+    "symbol": "601669.SS",
+    "exchange": "SSE",
+    "category": "china_500"
+  },
+  "MSFT": {
+    "name": "微软",
+    "symbol": "MSFT",
+    "exchange": "NASDAQ",
+    "category": "us_500"
+  },
+  "GOOGL": {
+    "name": "Alphabet",
+    "symbol": "GOOGL",
+    "exchange": "NASDAQ",
+    "category": "us_500"
+  },
+  "JPM": {
+    "name": "摩根大通",
+    "symbol": "JPM",
+    "exchange": "NYSE",
+    "category": "us_500"
+  },
+  "V": {
+    "name": "Visa",
+    "symbol": "V",
+    "exchange": "NYSE",
+    "category": "us_500"
+  },
+  "JNJ": {
+    "name": "强生",
+    "symbol": "JNJ",
+    "exchange": "NYSE",
+    "category": "us_500"
+  },
+  "META": {
+    "name": "Meta",
+    "symbol": "META",
+    "exchange": "NASDAQ",
+    "category": "us_500"
+  },
+  "TSLA": {
+    "name": "特斯拉",
+    "symbol": "TSLA",
+    "exchange": "NASDAQ",
+    "category": "us_500"
+  },
+  "NVDA": {
+    "name": "英伟达",
+    "symbol": "NVDA",
+    "exchange": "NASDAQ",
+    "category": "us_500"
+  },
+  "TSM": {
+    "name": "台积电",
+    "symbol": "TSM",
+    "exchange": "NYSE",
+    "category": "us_500"
+  },
+  "PG": {
+    "name": "宝洁",
+    "symbol": "PG",
+    "exchange": "NYSE",
+    "category": "us_500"
+  },
+  "KO": {
+    "name": "可口可乐",
+    "symbol": "KO",
+    "exchange": "NYSE",
+    "category": "us_500"
+  },
+  "NKE": {
+    "name": "耐克",
+    "symbol": "NKE",
+    "exchange": "NYSE",
+    "category": "us_500"
+  },
+  "DIS": {
+    "name": "迪士尼",
+    "symbol": "DIS",
+    "exchange": "NYSE",
+    "category": "us_500"
+  },
+  "NFLX": {
+    "name": "Netflix",
+    "symbol": "NFLX",
+    "exchange": "NASDAQ",
+    "category": "us_500"
+  }
+}
