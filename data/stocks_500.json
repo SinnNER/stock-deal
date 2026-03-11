@@ -1,0 +1,296 @@
+[
+  {
+    "name": "沃尔玛",
+    "symbol": "WMT",
+    "exchange": "NYSE",
+    "country": "US"
+  },
+  {
+    "name": "亚马逊",
+    "symbol": "AMZN",
+    "exchange": "NASDAQ",
+    "country": "US"
+  },
+  {
+    "name": "苹果",
+    "symbol": "AAPL",
+    "exchange": "NASDAQ",
+    "country": "US"
+  },
+  {
+    "name": "微软",
+    "symbol": "MSFT",
+    "exchange": "NASDAQ",
+    "country": "US"
+  },
+  {
+    "name": "谷歌",
+    "symbol": "GOOGL",
+    "exchange": "NASDAQ",
+    "country": "US"
+  },
+  {
+    "name": "沙特阿美",
+    "symbol": "2222.SR",
+    "exchange": "TADAWUL",
+    "country": "SA"
+  },
+  {
+    "name": "Meta",
+    "symbol": "META",
+    "exchange": "NASDAQ",
+    "country": "US"
+  },
+  {
+    "name": "特斯拉",
+    "symbol": "TSLA",
+    "exchange": "NASDAQ",
+    "country": "US"
+  },
+  {
+    "name": "英伟达",
+    "symbol": "NVDA",
+    "exchange": "NASDAQ",
+    "country": "US"
+  },
+  {
+    "name": "台积电",
+    "symbol": "TSM",
+    "exchange": "NYSE",
+    "country": "TW"
+  },
+  {
+    "name": "中国平安",
+    "symbol": "601318.SS",
+    "exchange": "SSE",
+    "country": "CN"
+  },
+  {
+    "name": "招商银行",
+    "symbol": "600036.SS",
+    "exchange": "SSE",
+    "country": "CN"
+  },
+  {
+    "name": "工商银行",
+    "symbol": "601398.SS",
+    "exchange": "SSE",
+    "country": "CN"
+  },
+  {
+    "name": "建设银行",
+    "symbol": "601939.SS",
+    "exchange": "SSE",
+    "country": "CN"
+  },
+  {
+    "name": "农业银行",
+    "symbol": "601288.SS",
+    "exchange": "SSE",
+    "country": "CN"
+  },
+  {
+    "name": "中国石油",
+    "symbol": "601857.SS",
+    "exchange": "SSE",
+    "country": "CN"
+  },
+  {
+    "name": "贵州茅台",
+    "symbol": "600519.SS",
+    "exchange": "SSE",
+    "country": "CN"
+  },
+  {
+    "name": "中国银行",
+    "symbol": "601988.SS",
+    "exchange": "SSE",
+    "country": "CN"
+  },
+  {
+    "name": "中国中免",
+    "symbol": "601888.SS",
+    "exchange": "SSE",
+    "country": "CN"
+  },
+  {
+    "name": "中国移动",
+    "symbol": "600941.SS",
+    "exchange": "SSE",
+    "country": "CN"
+  },
+  {
+    "name": "中国石化",
+    "symbol": "600028.SS",
+    "exchange": "SSE",
+    "country": "CN"
+  },
+  {
+    "name": "中国中车",
+    "symbol": "601766.SS",
+    "exchange": "SSE",
+    "country": "CN"
+  },
+  {
+    "name": "中国电建",
+    "symbol": "601669.SS",
+    "exchange": "SSE",
+    "country": "CN"
+  },
+  {
+    "name": "中国建筑",
+    "symbol": "601668.SS",
+    "exchange": "SSE",
+    "country": "CN"
+  },
+  {
+    "name": "中国中铁",
+    "symbol": "601390.SS",
+    "exchange": "SSE",
+    "country": "CN"
+  },
+  {
+    "name": "中国铁建",
+    "symbol": "601186.SS",
+    "exchange": "SSE",
+    "country": "CN"
+  },
+  {
+    "name": "中国交建",
+    "symbol": "601800.SS",
+    "exchange": "SSE",
+    "country": "CN"
+  },
+  {
+    "name": "中国国航",
+    "symbol": "601111.SS",
+    "exchange": "SSE",
+    "country": "CN"
+  },
+  {
+    "name": "中国太保",
+    "symbol": "601601.SS",
+    "exchange": "SSE",
+    "country": "CN"
+  },
+  {
+    "name": "中国人寿",
+    "symbol": "601628.SS",
+    "exchange": "SSE",
+    "country": "CN"
+  },
+  {
+    "name": "摩根大通",
+    "symbol": "JPM",
+    "exchange": "NYSE",
+    "country": "US"
+  },
+  {
+    "name": "Visa",
+    "symbol": "V",
+    "exchange": "NYSE",
+    "country": "US"
+  },
+  {
+    "name": "JNJ",
+    "symbol": "JNJ",
+    "exchange": "NYSE",
+    "country": "US"
+  },
+  {
+    "name": "UnitedHealth",
+    "symbol": "UNH",
+    "exchange": "NYSE",
+    "country": "US"
+  },
+  {
+    "name": "Home Depot",
+    "symbol": "HD",
+    "exchange": "NYSE",
+    "country": "US"
+  },
+  {
+    "name": "Bank of America",
+    "symbol": "BAC",
+    "exchange": "NYSE",
+    "country": "US"
+  },
+  {
+    "name": "Chevron",
+    "symbol": "CVX",
+    "exchange": "NYSE",
+    "country": "US"
+  },
+  {
+    "name": "Eli Lilly",
+    "symbol": "LLY",
+    "exchange": "NYSE",
+    "country": "US"
+  },
+  {
+    "name": "Cvs Health",
+    "symbol": "CVS",
+    "exchange": "NYSE",
+    "country": "US"
+  },
+  {
+    "name": "PepsiCo",
+    "symbol": "PEP",
+    "exchange": "NASDAQ",
+    "country": "US"
+  },
+  {
+    "name": "Coca-Cola",
+    "symbol": "KO",
+    "exchange": "NYSE",
+    "country": "US"
+  },
+  {
+    "name": "Walt Disney",
+    "symbol": "DIS",
+    "exchange": "NYSE",
+    "country": "US"
+  },
+  {
+    "name": "Netflix",
+    "symbol": "NFLX",
+    "exchange": "NASDAQ",
+    "country": "US"
+  },
+  {
+    "name": "Adobe",
+    "symbol": "ADBE",
+    "exchange": "NASDAQ",
+    "country": "US"
+  },
+  {
+    "name": "Salesforce",
+    "symbol": "CRM",
+    "exchange": "NYSE",
+    "country": "US"
+  },
+  {
+    "name": "Intel",
+    "symbol": "INTC",
+    "exchange": "NASDAQ",
+    "country": "US"
+  },
+  {
+    "name": "AMD",
+    "symbol": "AMD",
+    "exchange": "NASDAQ",
+    "country": "US"
+  },
+  {
+    "name": "Cisco",
+    "symbol": "CSCO",
+    "exchange": "NASDAQ",
+    "country": "US"
+  },
+  {
+    "name": "Oracle",
+    "symbol": "ORCL",
+    "exchange": "NYSE",
+    "country": "US"
+  }
+]
