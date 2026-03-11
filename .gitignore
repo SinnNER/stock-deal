@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.log
+.env
+venv/
+.venv/
+trade_log.json
+*.swp
+*.swo
+.DS_Store
